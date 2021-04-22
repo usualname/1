@@ -5,12 +5,20 @@
 <loc>https://mrlivetv.com/</loc>
 </url>
 <url>
+<loc>https://mrlivetv.com/asianetnews/</loc>
+<lastmod>2021-04-22T21:48:48+05:30</lastmod>
+<image:image>
+<image:loc>https://mrlivetv.com/media\posts\6/Asianetnews-Final.jpg</image:loc>
+<image:title><![CDATA[Asianetnews live streaming image]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://mrlivetv.com/home/</loc>
-<lastmod>2021-04-11T21:31:24+05:30</lastmod>
+<lastmod>2021-04-22T21:52:33+05:30</lastmod>
 </url>
 <url>
 <loc>https://mrlivetv.com/janam-tv/</loc>
-<lastmod>2021-04-14T00:32:36+05:30</lastmod>
+<lastmod>2021-04-22T21:13:08+05:30</lastmod>
 <image:image>
 <image:loc>https://mrlivetv.com/media\posts\5/Saileela-Tv-Final.jpg</image:loc>
 <image:title><![CDATA[Janam tv live streaming thumbnail]]></image:title>
@@ -18,7 +26,7 @@
 </url>
 <url>
 <loc>https://mrlivetv.com/saileela-tv/</loc>
-<lastmod>2021-04-14T00:33:01+05:30</lastmod>
+<lastmod>2021-04-22T21:13:59+05:30</lastmod>
 <image:image>
 <image:loc>https://mrlivetv.com/media\posts\4/Saileela-Tv-Final.jpg</image:loc>
 <image:title><![CDATA[Saileela tv live streaming thumbnail]]></image:title>
@@ -35,11 +43,5 @@
 </url>
 <url>
 <loc>https://mrlivetv.com/tags/malayalam/</loc>
-</url>
-<url>
-<loc>https://mrlivetv.com/tags/malayalam-news/</loc>
-</url>
-<url>
-<loc>https://mrlivetv.com/tags/news/</loc>
 </url>
 </urlset>
